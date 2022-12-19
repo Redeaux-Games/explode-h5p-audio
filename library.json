@@ -6,7 +6,7 @@
   "minorVersion": 5,
   "patchVersion": 1,
   "runnable": 1,
-  "machineName": "EXPLODE.H5P.Audio",
+  "machineName": "H5P.Audio",
   "embedTypes": [
     "iframe"
   ],
