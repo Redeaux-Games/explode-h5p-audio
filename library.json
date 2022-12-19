@@ -1,16 +1,16 @@
 {
-  "title": "Audio",
+  "title": "Explode Music",
   "contentType": "Media",
-  "description": "Simple library that displays an audio player.",
+  "description": "Explode Music Player",
   "majorVersion": 1,
   "minorVersion": 5,
   "patchVersion": 1,
   "runnable": 1,
-  "machineName": "H5P.Audio",
+  "machineName": "EXPLODE.H5P.Audio",
   "embedTypes": [
     "iframe"
   ],
-  "author": "Joubel",
+  "author": "Explode",
   "coreApi": {
     "majorVersion": 1,
     "minorVersion": 19
