@@ -1,8 +1,32 @@
-H5P Audio
+Explode H5P Audio Player
 ==========
 
-A simple library that displays an audio player.
-Useful when users dynamially add audio tracks to other content.
+Explode H5P NFT Audio Player
+
+====================================
+
+This player will lock the audio player to a user's wallet, potentially.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## License
 
